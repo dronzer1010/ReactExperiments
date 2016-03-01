@@ -1,0 +1,22 @@
+{
+  "name": "reactive",
+  "description": "This is a react experiment project",
+  "main": "index.js",
+  "authors": [
+    "Dronzer1010"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "reactive",
+    "experiments"
+  ],
+  "homepage": "https://github.com/dronzer1010/ReactExperiments",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
